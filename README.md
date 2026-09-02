@@ -137,3 +137,18 @@ See [docs/ROADMAP.md](docs/ROADMAP.md).
 ---
 ### ðŸ‘¨â€ðŸ’» Portfolio adaptation by Shil Gawande
 [LinkedIn](https://www.linkedin.com/in/shilgawande2004)
+
+<!-- UPSTREAM_TRANSPARENCY_START -->
+## ðŸ“œ Open-Source Transparency
+
+This portfolio repository is based on an existing open-source project.
+
+**Original Repository:** [escalated-dev/escalated-spring](https://github.com/escalated-dev/escalated-spring)  
+**Original Repository URL:** https://github.com/escalated-dev/escalated-spring  
+**Original License:** MIT License
+
+The upstream source is not presented as my original work. The original license and attribution are preserved. My portfolio-specific work is documented separately in [CONTRIBUTIONS.md](CONTRIBUTIONS.md).
+
+For the upstream documentation preserved at the time of adaptation, see [docs/ORIGINAL_README.md](docs/ORIGINAL_README.md) when available.
+<!-- UPSTREAM_TRANSPARENCY_END -->
+
